@@ -5,23 +5,23 @@
 
 #### Types of ML Systems
 
-- Supervised/Unsupervised Learning
+1. Supervised/Unsupervised Learning
 
-Supervised : Training data includes labels. Eg - Classifcation (learn how to classify - emails), Regression (predict a target numeric value - price of a car)
+_Supervised_ : Training data includes labels. Eg - Classifcation (learn how to classify - emails), Regression (predict a target numeric value - price of a car)
 
-Unsupervised : Training data is unlabeled. Eg - Clustering.
+_Unsupervised_ : Training data is unlabeled. Eg - Clustering.
 
-- Batch and Online Learning
+2. Batch and Online Learning
 
-Batch : system is incapable of learning incrementally: it must be trained using all the available data. It takes lot of time.
+_Batch_ : System is incapable of learning incrementally: it must be trained using all the available data. It takes lot of time.
 
-Online : train the system incrementally by feeding it data instances sequentially. Great for systems that receive data as a continuous flow.
+_Online_ : Train the system incrementally by feeding it data instances sequentially. Great for systems that receive data as a continuous flow.
 
-- Instance-Based Versus Model-Based Learning
+3. Instance-Based Versus Model-Based Learning
 
-Instance-Based : system learns the examples by heart, then generalizes to new cases by comparing them to the learned examples, using a similarity measure.
+_Instance-Based_ : System learns the examples by heart, then generalizes to new cases by comparing them to the learned examples, using a similarity measure.
 
-Model-Based : build a model use that model to make predictions.
+_Model-Based_ : Build a model use that model to make predictions.
 
 ##### Main Challenges of ML
 

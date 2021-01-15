@@ -53,3 +53,19 @@ Testing set - evaluate how well the model does with data outside the training se
 <sub><sup>*Ref Book : Hands-on Machine Learning with Scikit (2E) - Ch 1*</sup></sub>
 
 ---
+
+**_Day 3_**
+
+### California Housing Prices Project
+
+- Framing the problem
+- Understanding MAE, RMSE
+- Getting data
+- Stratified sampling
+- Visualization and Correlation
+
+<img src="images/Day%203.JPG" width="500">
+
+<sub><sup>*Ref Book : Hands-on Machine Learning with Scikit (2E) - Ch 2*</sup></sub>
+
+---

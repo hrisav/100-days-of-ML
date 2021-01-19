@@ -69,3 +69,15 @@ Testing set - evaluate how well the model does with data outside the training se
 <sub><sup>*Ref Book : Hands-on Machine Learning with Scikit (2E) - Ch 2*</sup></sub>
 
 ---
+
+**_Day 4_**
+
+### California Housing Prices Project
+
+- Perform Feature Engineering
+- SimpleImputer : to impute missing values with median (for Numerical)
+- Ordinal and One-Hot Encoding (for Categorical)
+
+<img src="images/Day%204.JPG" width="500">
+
+<sub><sup>*Ref Book : Hands-on Machine Learning with Scikit (2E) - Ch 2*</sup></sub>

@@ -74,10 +74,28 @@ Testing set - evaluate how well the model does with data outside the training se
 
 ### California Housing Prices Project
 
-- Perform Feature Engineering
+- Perform Feature Engineering to add features
 - SimpleImputer : to impute missing values with median (for Numerical)
 - Ordinal and One-Hot Encoding (for Categorical)
 
 <img src="images/Day%204.JPG" width="500">
 
 <sub><sup>*Ref Book : Hands-on Machine Learning with Scikit (2E) - Ch 2*</sup></sub>
+
+---
+
+**_Day 5_**
+
+### California Housing Prices Project
+
+- Using FunctionTransformer add features "rooms_per_household", "population_per_household"
+- Scaling using StandardScaler()
+- Using Pipeline() to apply a list of transforms and a final estimator
+
+<img src="images/Day%205.JPG" width="500">
+
+Shows first row after imputing, adding additional features, encoding categorical feature and scaling.
+
+<sub><sup>*Ref Book : Hands-on Machine Learning with Scikit (2E) - Ch 2*</sup></sub>
+
+---
